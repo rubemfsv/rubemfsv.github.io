@@ -1,0 +1,192 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Rubem Vasconcelos
+    tagline: Web Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: rubemfsv15[at]gmail.com
+    phone: +55 82 996442289
+    website: rubemfsv.github.io/ #do not add http://
+    linkedin: rubemfsv
+    github: rubemfsv
+    gitlab:
+    bitbucket:
+    twitter: '@rubemfsv'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Spanish
+        level: Intermediate
+
+      - idiom: French
+        level: Beginner
+
+    interests:
+      - item: Cooking
+        link:
+
+      - item: Learning
+        link:
+
+      - item: Traveling
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Rubem Vasconcelos is an undergraduate student in Computer Science from the
+      Federal University of Alagoas (UFAL). In the research area, he had experience at the Center
+      for Excellence in Social Technologies (NEES) working with affective computing, artificial
+      intelligence and informatics in education from 2016 to 2018. He was an intern of
+      the Permanent Entrance Examination Commission (COPEVE) between february 2019 and may 2019.
+      Actually he is a web developer at the Institute of Technology in Informatics and Information
+      of the State of Alagoas (ITEC).
+
+      Has experience in web development and Computer Science, focusing on Affective Computing.
+
+      He is passionate about affective computing, natural language processing, deep learning,
+      data mining and machine learning.
+
+
+education:
+    - degree: BSc in Computer Science
+      university: Federal University of Alagoas
+      time: 2015 - 2020
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Web Developer
+      time: 2019 - Present
+      company: ITEC, Maceió, Brazil
+      details: |
+        Actually, I am a web developer, working developing the governmental web sites.
+
+        - Technologies: Ruby on Rails, React.
+
+    - role: Intern
+      time: 2019 - 2019
+      company: Fundepes, Maceió, Brazil
+      details: |
+        I worked in the Instrument Development and Testing project.
+
+        - Technologies: Django.
+
+    - role: Intern
+      time: 2018 - 2018
+      company: Stalebu, São Paulo, Brazil
+      details: |
+        I worked as a home office developer.
+
+        - Technologies: React Native.
+
+    - role: Monitor
+      time: 2018 - 2018
+      company: UFAL, Maceió, Brazil
+      details: |
+        Monitoring of the subject "Introduction to Computing" for Meteorology class.
+
+    - role: Researcher Jr.
+      time: 2016 - 2018
+      company: UFAL, Maceió, Brazil
+      details: |
+        PROCAD / CAPES / MEC - Research, Integration and Training of Human Resources in Educational
+        Technologies and Software Engineering, Description: This academic cooperation project aims to
+        foster research, integration and training of high level human resources in the fields. of
+        Educational Technologies and Software Engineering. The integration of the two research areas
+        happens through the measurement of Software Engineering processes, methods and tools that
+        are investigated and applied in the production and evolution of Educational Technologies.
+
+        - Technologies: C++, Python, UML;
+        - Situation: Done;
+        - Nature: Research.
+
+    - role: Researcher Jr.
+      time: 2016 - 2017
+      company: UFAL, Maceió, Brazil
+      details: |
+        I worked on SmartClass project. This project investigated the most relevant technologies for
+        effective automation of a classroom of the future
+
+        - Technologies: Python, UML;
+        - Situation: Disabled;
+        - Nature: Research
+
+projects:
+    title: Projects
+    intro: >
+      You can see my personal projects above.
+
+    assignments:
+      - title: Studio Leaf
+        link: "https://rubemfsv.github.io/studio-leaf/"
+        tagline: "A software solution company"
+
+      - title: Alameda 710
+        link: "#"
+        tagline: "A alternative clothing brand."
+
+publications:
+    title: Publications
+    intro:
+
+    papers:
+      - title: 'Aplicando Internet das Coisas na Educação: Tecnologia, Cenários e Projeções'
+        authors: SILVA, RAFAEL DE AMORIM; NOVA, JOÃO VILA; VASCONCELOS, RUBEM; CALADO, IVO; BRANCO, KALINKA CASTELO; BRAGA, ROSANA
+        conference: VI Congresso Brasileiro de Informática na Educação, 2017, Recife
+
+      - title: "PB-SmartClass: Um Modelo Arquitetural Baseado em Projetos Colaborativos para Salas de Aula do Futuro"
+        authors: SILVA, RAFAEL DE AMORIM; NOVA, JOÃO VILA; VASCONCELOS, RUBEM; CALADO, IVO; BRANCO, KALINKA CASTELO; BRAGA, ROSANA
+        conference: VI Congresso Brasileiro de Informática na Educação, 2017, Recife
+
+      - title: Um Sistema Tutor Inteligente para o Aprendizado de Música de Maneira Otimizada
+        authors: VASCONCELOS, RUBEM; SILVA, RAFAEL DE AMORIM; NOVA, JOÃO VILA; CALADO, IVO
+        conference: Caiite, 2016, Maceió
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: HTML5 & CSS
+        level: 77%
+
+      - name: Javascript & jQuery
+        level: 50%
+
+      - name: Jekyll
+        level: 70%
+
+      - name: Python
+        level: 75%
+
+      - name: Java
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
