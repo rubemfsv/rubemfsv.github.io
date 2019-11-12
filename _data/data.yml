@@ -77,6 +77,19 @@ education:
 
           - Bullet point
           - Bullet point
+          
+     - degree: Software Engineering Specialization
+      university: Estácio
+      time: 2019 - 2021
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
 
 experiences:
     - role: Web Developer
@@ -144,10 +157,6 @@ projects:
       - title: Studio Leaf
         link: "https://rubemfsv.github.io/studio-leaf/"
         tagline: "A software solution company."
-
-      - title: Alameda 710
-        link: "#"
-        tagline: "A alternative clothing brand."
 
 publications:
     title: Publications
