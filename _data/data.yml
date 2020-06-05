@@ -148,15 +148,15 @@ experiences:
         - Situation: Disabled;
         - Nature: Research.
 
-projects:
-    title: Projects
-    intro: >
-      You can see my personal projects above.
+# projects:
+#     title: Projects
+#     intro: >
+#       You can see my personal projects above.
 
-    assignments:
-      - title: Studio Leaf
-        link: "https://rubemfsv.github.io/studio-leaf/"
-        tagline: "A software solution company."
+#     assignments:
+#       - title: Studio Leaf
+#         link: "https://rubemfsv.github.io/studio-leaf/"
+#         tagline: "A software solution company."
 
 publications:
     title: Publications
