@@ -136,10 +136,10 @@ experiences:
         - Situation: Disabled;
         - Nature: Research.
 
-Courses & Certifications:
-    title: Projects
+projects:
+    title: Courses & Certificates
     intro: >
-      You can see my personal projects above.
+      You can see my courses and certificates above.
 
     assignments:
       - title: Studio Leaf
