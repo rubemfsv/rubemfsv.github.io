@@ -230,13 +230,13 @@ skills:
         level: 85%
 
       - name: Agile
-        level: 80%
+        level: 100%
 
       - name: HTML5 & CSS
         level: 77%
 
       - name: Product Management
-        level: 75%
+        level: 85%
 
       - name: ReactJS
         level: 75%
