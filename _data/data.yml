@@ -200,10 +200,10 @@ projects:
         link: "https://www.udemy.com/certificate/UC-B2D24P1U/"
         tagline: "Credential ID UC-B2D24P1U"
      
-    assignments:
-      - title: English Advanced Level (Senac)
-        link: ""
-        tagline: ""
+#     assignments:
+#       - title: English Advanced Level (Senac)
+#         link: ""
+#         tagline: ""
 
 publications:
     title: Publications
