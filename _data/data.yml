@@ -141,7 +141,19 @@ projects:
     intro: >
       
     assignments:
-    
+
+      - title: Full-Stack Web Development with React Specialization (The Hong Kong University of Science and Technology)
+        link: "https://www.coursera.org/account/accomplishments/specialization/SUK5HE83ZKP5"
+        tagline: "Credential ID SUK5HE83ZKP5"  
+
+      - title: Getting Started with Go (California Institute of the Arts)
+        link: "http://coursera.org/verify/GHNK8SDVNEQT"
+        tagline: "Credential ID GHNK8SDVNEQT"  
+        
+      - title: Server-side Development with NodeJS, Express and MongoDB (The Hong Kong University of Science and Technology)
+        link: "https://www.coursera.org/account/accomplishments/certificate/K9RCCW5F49G5"
+        tagline: "Credential ID K9RCCW5F49G5"  
+
       - title: UI / UX Design Specialization (California Institute of the Arts)
         link: "https://www.coursera.org/account/accomplishments/specialization/LU5PP63WNGXK"
         tagline: "Credential ID LU5PP63WNGXK"  
