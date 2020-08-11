@@ -141,6 +141,18 @@ projects:
     intro: >
       
     assignments:
+    
+      - title: Programming with Google Go Specialization (University of California, Irvine)
+        link: "https://www.coursera.org/account/accomplishments/specialization/TVBX4S4KF746"
+        tagline: "Credential ID TVBX4S4KF746"  
+
+      - title: Concurrency in Go (University of California, Irvine)
+        link: "http://coursera.org/verify/5GM5BRNAVXYN"
+        tagline: "Credential ID 5GM5BRNAVXYN"  
+        
+      - title: Functions, Methods, and Interfaces in Go (University of California, Irvine)
+        link: "http://coursera.org/verify/8TVND35BPHW3"
+        tagline: "Credential ID 8TVND35BPHW3"  
 
       - title: Full-Stack Web Development with React Specialization (The Hong Kong University of Science and Technology)
         link: "https://www.coursera.org/account/accomplishments/specialization/SUK5HE83ZKP5"
