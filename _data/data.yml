@@ -145,6 +145,10 @@ projects:
       - title: Programming with Google Go Specialization (University of California, Irvine)
         link: "https://www.coursera.org/account/accomplishments/specialization/TVBX4S4KF746"
         tagline: "Credential ID TVBX4S4KF746"  
+        
+      - title: Design Thinking for Innovation (University of Virginia)
+        link: "http://coursera.org/verify/AZABB3H7788P"
+        tagline: "Credential ID AZABB3H7788P"  
 
       - title: Concurrency in Go (University of California, Irvine)
         link: "http://coursera.org/verify/5GM5BRNAVXYN"
