@@ -279,27 +279,27 @@ publications:
         authors: VASCONCELOS, RUBEM; SILVA, RAFAEL DE AMORIM; NOVA, JOÃO VILA; CALADO, IVO
         conference: Caiite, 2016, Maceió
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Ruby on Rails
-        level: 85%
+#     toolset:
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Agile
-        level: 100%
+#       - name: Agile
+#         level: 100%
 
-      - name: HTML5 & CSS
-        level: 77%
+#       - name: HTML5 & CSS
+#         level: 77%
 
-      - name: Product Management
-        level: 85%
+#       - name: Product Management
+#         level: 85%
 
-      - name: ReactJS
-        level: 75%
+#       - name: ReactJS
+#         level: 75%
 
-      - name: Jekyll
-        level: 70%
+#       - name: Jekyll
+#         level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://rubemfsv.github.io/" target="_blank" rel="nofollow">Rubem</a>
