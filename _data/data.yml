@@ -80,20 +80,16 @@ education:
     
     - degree: Full Stack Developer - Focusing on ReactJS, React Native and NodeJS
       university: Rocketseat
-      time: 2015 - 2021
+      time: 2020 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Final grade: 10
 
           - Bullet point
           - Bullet point
     
     - degree: BSc in Computer Science
       university: Federal University of Alagoas
-      time: 2015 - 2021
+      time: 2015 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
