@@ -37,15 +37,15 @@ sidebar:
       - idiom: French
         level: Beginner
 
-    interests:
-      - item: Cooking
-        link:
+#     interests:
+#       - item: Cooking
+#         link:
 
-      - item: Learning
-        link:
+#       - item: Learning
+#         link:
 
-      - item: Traveling
-        link:
+#       - item: Traveling
+#         link:
 
 career-profile:
     title: Career Profile
