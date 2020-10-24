@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Rubem Vasconcelos
-    tagline: Full Stack Developer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,7 +18,7 @@ sidebar:
     linkedin: rubemfsv
     github: rubemfsv
     gitlab:
-    bitbucket:
+    bitbucket: rubemfsv1
     twitter: '@rubemfsv'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -55,8 +55,10 @@ career-profile:
       for Excellence in Social Technologies (NEES) working with affective computing, artificial
       intelligence and informatics in education from 2016 to 2018. He was an intern of
       the Permanent Entrance Examination Commission (COPEVE) between february 2019 and may 2019.
-      Actually he is a web developer at the Institute of Technology in Informatics and Information
-      of the State of Alagoas (ITEC).
+      Worked as a web developer at the Institute of Technology in Informatics and Information
+      of the State of Alagoas (ITEC) for 1 year and 6 months, where he was in the team in charge of the development of the new CMS.
+      
+      Currently working as software engineer focusing in mobile development at W2Bit.
 
       Has experience in web development and Computer Science, focusing on Affective Computing.
 
@@ -102,11 +104,19 @@ education:
           
    
 experiences:
+    - role: Software Engineer
+      time: 2020 - Present
+      company: W2Bit, remote.
+      details: |
+        I am responsible for developing new mobile applications using the best practices.
+
+        - Technologies: React Native and Firebase.
+    
     - role: Full Stack Web Developer
       time: 2019 - Present
       company: ITEC, Maceió, Brazil
       details: |
-        I am in the team in charge to develop the new CMS plataform which uses ReactJS and Ruby on Rails, and also the migration. This project was aimed to replace the old CMS to something flexible to the news writers and to photographers. 
+        Worked in the team in charge to develop the new CMS plataform which uses ReactJS and Ruby on Rails, and also the migration. This project was aimed to replace the old CMS to something flexible to the news writers and to photographers. 
 
         - Technologies: Ruby on Rails, React.
 
