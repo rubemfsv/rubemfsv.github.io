@@ -56,7 +56,8 @@ career-profile:
       intelligence and informatics in education from 2016 to 2018. He was an intern of
       the Permanent Entrance Examination Commission (COPEVE) between february 2019 and may 2019.
       Worked as a web developer at the Institute of Technology in Informatics and Information
-      of the State of Alagoas (ITEC) for 1 year and 6 months, where he was in the team in charge of the development of the new CMS.
+      of the State of Alagoas (ITEC) for 1 year and 6 months, where he was in the team in charge of the development of the new CMS. 
+      Currently working remotly as tech leader at Khube. 
       
       Currently working as software engineer focusing in mobile development at W2Bit.
 
@@ -104,13 +105,21 @@ education:
           
    
 experiences:
-    - role: Software Engineer
-      time: 2020 - Present
-      company: W2Bit, remote.
+    - role: Tech Leader
+      time: 2021 - 2021
+      company: Khube, remote.
       details: |
-        I am responsible for developing new mobile applications using the best practices.
+        I am responsible for maintaining the team working with the best practices and keeping the project scalable with a clean architecture, and also responsible for developing new web and mobile applications using the best practices.
 
-        - Technologies: React Native and Firebase.
+        - Technologies: Clean Architecture, React, React Native, NodeJS and Firebase.
+        
+    - role: Software Engineer
+      time: 2020 - 2021
+      company: Khube, remote.
+      details: |
+        I am responsible for developing new web and mobile applications using the best practices.
+
+        - Technologies: Clean Architecture, React, React Native, NodeJS and Firebase.
     
     - role: Full Stack Web Developer
       time: 2019 - Present
