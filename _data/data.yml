@@ -128,30 +128,38 @@ experiences:
 
         - Technologies: Ruby on Rails, React.
 
-    - role: Intern
-      time: 2019 - 2019
+    - role: Web Developer Intern
+      time: 02/2019 - 05/2019
       company: Fundepes, Maceió, Brazil
       details: |
         I worked in the Instrument Development and Testing project.
 
         - Technologies: Django.
 
-    - role: Intern
-      time: 2018 - 2018
-      company: Stalebu, São Paulo, Brazil
+    - role: Mobile Developer Intern
+      time: 08/2018 - 09/2018
+      company: Stalebu, remote
       details: |
-        I worked as a home office developer.
+        I worked as a remote mobile intern. I was in charged to implement screens.
+
+        - Technologies: React Native.
+        
+    - role: Mobile Developer 
+      time: 02/2018 - 08/2018
+      company: Bigu, Maceió, Brazil
+      details: |
+        I worked as a mobile developer, rendering services to third parties. We received the screens from the design team, developed the interfaces and integrated with the API that was developed by the other team.
 
         - Technologies: React Native.
 
-    - role: Tutor
-      time: 2018 - 2018
+    - role: Academic Tutor
+      time: 02/2018 - 06/2018
       company: UFAL, Maceió, Brazil
       details: |
-        Tutoring of the subject "Introduction to Computing" for Meteorology course.
+        Tutoring of the subject “Introduction to Computing” for Meteorology Bsc.
 
     - role: Undergraduate Research Fellow
-      time: 2016 - 2018
+      time: 04/2016 - 08/2018
       company: UFAL, Maceió, Brazil
       details: |
         PROCAD / CAPES / MEC - Research, Integration and Training of Human Resources in Educational
@@ -166,7 +174,7 @@ experiences:
         - Nature: Research.
 
     - role: Undergraduate Research Fellow
-      time: 2016 - 2017
+      time: 01/2016 - 01/2017
       company: UFAL, Maceió, Brazil
       details: |
         I worked on SmartClass project. This project investigated the most relevant technologies for
