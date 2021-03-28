@@ -105,7 +105,7 @@ education:
    
 experiences:
     - role: Tech Leader
-      time: 2021 - 2021
+      time: 01/2021 - Present
       company: Khube, remote.
       details: |
         I am responsible for maintaining the team working with the best practices and keeping the project scalable with a clean architecture, and also responsible for developing new web and mobile applications using the best practices.
@@ -113,7 +113,7 @@ experiences:
         - Technologies: Clean Architecture, React, React Native, NodeJS and Firebase.
         
     - role: Software Engineer
-      time: 2020 - 2021
+      time: 10/2020 - Present
       company: Khube, remote.
       details: |
         I am responsible for developing new web and mobile applications using the best practices.
@@ -121,7 +121,7 @@ experiences:
         - Technologies: Clean Architecture, React, React Native, NodeJS and Firebase.
     
     - role: Full Stack Web Developer
-      time: 2019 - Present
+      time: 07/2019 - 11/2020
       company: ITEC, Maceió, Brazil
       details: |
         Worked in the team in charge to develop the new CMS plataform which uses ReactJS and Ruby on Rails, and also the migration. This project was aimed to replace the old CMS to something flexible to the news writers and to photographers. 
