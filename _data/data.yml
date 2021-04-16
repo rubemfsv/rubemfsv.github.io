@@ -79,16 +79,7 @@ education:
 
           - Bullet point
           - Bullet point
-    
-    - degree: Full Stack Developer Bootcamp - Focusing on ReactJS, React Native and NodeJS
-      university: Rocketseat
-      time: 2020 - 2020
-      details: |
-        Final grade: 10
-
-          - Bullet point
-          - Bullet point
-    
+        
     - degree: BSc in Computer Science
       university: Federal University of Alagoas
       time: 2015 - 2020
@@ -189,7 +180,19 @@ projects:
     intro: >
       
     assignments:
-    
+            
+      - title: Remote Work and Virtual Collaboration Certificate (CertiProf)
+        link: "https://www.dropbox.com/s/7u9u9p07rielqzf/certificate-remote-work-RWVCPC.pdf?dl=0"
+        tagline: "Credential ID 61684776"  
+        
+      - title: Cyber Security Foundation (CertiProf)
+        link: "https://www.dropbox.com/s/76nk7axfwkw3ms0/cyber-security-foundation-CSFPC.pdf?dl=0"
+        tagline: "Credential ID 60776051"  
+        
+     - title: Full Stack Developer - Focusing on ReactJS, React Native and NodeJS (Rocketseat)
+        link: "https://www.dropbox.com/s/ksxi8qupbgq3i7i/bootcamp.pdf?dl=0"
+        tagline: "Credential ID 7186207d-9ca6-492f-9723-2dd171f57a61"  
+        
       - title: Programming with Google Go Specialization (University of California, Irvine)
         link: "https://www.coursera.org/account/accomplishments/specialization/TVBX4S4KF746"
         tagline: "Credential ID TVBX4S4KF746"  
