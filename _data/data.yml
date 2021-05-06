@@ -95,8 +95,14 @@ education:
           
    
 experiences:
+    - role: Frontend Engineer
+      time: 05/2021 - Present
+      company: Pontomais, remote.
+      details: |
+        - Technologies: Angular and React Native.
+    
     - role: Tech Leader
-      time: 01/2021 - Present
+      time: 01/2021 - 04/2021
       company: Khube, remote.
       details: |
         I am responsible for maintaining the team working with the best practices and keeping the project scalable with a clean architecture, and also responsible for developing new web and mobile applications using the best practices.
@@ -180,7 +186,11 @@ projects:
     intro: >
       
     assignments:
-            
+    
+      - title: Formation Angular 11 (Udemy)
+        link: "https://www.udemy.com/certificate/UC-e99dd471-73df-414c-8697-5692e202bcc7/"
+        tagline: "Credential ID UC-e99dd471-73df-414c-8697-5692e202bcc7"  
+           
       - title: Remote Work and Virtual Collaboration Certificate (CertiProf)
         link: "https://www.dropbox.com/s/7u9u9p07rielqzf/certificate-remote-work-RWVCPC.pdf?dl=0"
         tagline: "Credential ID 61684776"  
