@@ -99,7 +99,9 @@ experiences:
       time: 05/2021 - Present
       company: Pontomais, remote.
       details: |
-        - Technologies: Angular and React Native.
+        Responsible for development and maintenance of a system of registration and control of labor time.
+        
+        - Technologies: Angular, AngularJS and Cypress.
     
     - role: Tech Leader
       time: 01/2021 - 04/2021
