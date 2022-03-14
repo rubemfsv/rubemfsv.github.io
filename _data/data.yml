@@ -107,6 +107,7 @@ experiences:
       company: Pontomais, remote.
       details: |
         Responsible for development and maintenance of a system of registration and control of labor time.
+        Also responsible for applying end-to-end and unit testings on the front-end web system in order to get better confidence.
         
         - Technologies: Angular, AngularJS and Cypress.
     
@@ -193,9 +194,15 @@ experiences:
 projects:
     title: Licenses & Certifications
     intro: >
-      
-    assignments:
     
+      - title: assignments:Negotiation and Influence (Conquer School)
+        link: "https://www.conqueronline.com.br/certificates/3e95e70f-1337-4fd8-aa40-323aad8e8c15"
+        tagline: "Credential ID 3e95e70f-1337-4fd8-aa40-323aad8e8c15"  
+        
+      - title: Cypress -Modern Automation Testing from Scratch + Frameworks (Udemy)
+        link: "https://www.udemy.com/certificate/UC-6aa60c20-5ce1-4046-a784-22f6a76322a3/"
+        tagline: "Credential ID UC-6aa60c20-5ce1-4046-a784-22f6a76322a3"  
+        
       - title: Formation Angular 11 (Udemy)
         link: "https://www.udemy.com/certificate/UC-e99dd471-73df-414c-8697-5692e202bcc7/"
         tagline: "Credential ID UC-e99dd471-73df-414c-8697-5692e202bcc7"  
