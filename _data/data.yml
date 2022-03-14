@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Rubem Vasconcelos
     tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile-pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rubemfsv15@gmail.com
@@ -196,6 +196,7 @@ projects:
     intro: >
       
     assignments:
+    
     
       - title: assignments:Negotiation and Influence (Conquer School)
         link: "https://www.conqueronline.com.br/certificates/3e95e70f-1337-4fd8-aa40-323aad8e8c15"
