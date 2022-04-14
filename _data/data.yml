@@ -195,7 +195,11 @@ projects:
       
     assignments:
     
-      - title: Negotiation and Influence (Conquer School)
+     - title: Flutter, TDD, Clean Architecture, SOLID and Design Patterns (Udemy)
+        link: "https://www.udemy.com/certificate/UC-6d11152e-e78d-4cdb-a1ad-454763c07499/"
+        tagline: "Credential ID UC-6d11152e-e78d-4cdb-a1ad-454763c07499"  
+        
+     - title: Negotiation and Influence (Conquer School)
         link: "https://www.conqueronline.com.br/certificates/3e95e70f-1337-4fd8-aa40-323aad8e8c15"
         tagline: "Credential ID 3e95e70f-1337-4fd8-aa40-323aad8e8c15"  
         
