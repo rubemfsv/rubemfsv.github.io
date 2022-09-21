@@ -195,6 +195,10 @@ projects:
       
     assignments:
     
+      - title: Microservices Contract Testing with Pact (Udemy)
+        link: "https://www.udemy.com/certificate/UC-79d6494f-e9ab-42d4-947c-10b61853bc2a/"
+        tagline: "Credential ID UC-79d6494f-e9ab-42d4-947c-10b61853bc2a"  
+        
       - title: Flutter, TDD, Clean Architecture, SOLID and Design Patterns (Udemy)
         link: "https://www.udemy.com/certificate/UC-6d11152e-e78d-4cdb-a1ad-454763c07499/"
         tagline: "Credential ID UC-6d11152e-e78d-4cdb-a1ad-454763c07499"  
