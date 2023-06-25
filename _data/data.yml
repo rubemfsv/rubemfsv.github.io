@@ -100,8 +100,16 @@ education:
           
    
 experiences:
+    - role: Specialist Frontend Engineer
+      time: 04/2023 - Present
+      company: Pontomais, remote.
+      details: |
+        Responsible for new features development of a system of registration and control of labor time, working in the architecture team. Frontend Chapter Leader.
+        
+        - Technologies: Angular, AngularJS, TypeScript and Cypress.
+        
     - role: Senior Frontend Engineer
-      time: 05/2021 - Present
+      time: 05/2021 - 04/2023
       company: Pontomais, remote.
       details: |
         Responsible for development and maintenance of a system of registration and control of labor time.
