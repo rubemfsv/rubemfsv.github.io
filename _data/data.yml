@@ -102,20 +102,24 @@ education:
 experiences:
     - role: Specialist Frontend Engineer
       time: 04/2023 - Present
-      company: Pontomais, remote.
+      company: VR, remote.
       details: |
-        Responsible for new features development of a system of registration and control of labor time, working in the architecture team. Frontend Chapter Leader.
+        Responsible for new features development of a system of registration and control of labor time with more than 25k users, working in the architecture team of the VR Gente business unit. 
+        Frontend chapter leader.
         
-        - Technologies: Angular, AngularJS, TypeScript and Cypress.
+        - Technologies: Angular, AngularJS, TypeScript, Jasmine and Cypress.
         
     - role: Senior Frontend Engineer
       time: 05/2021 - 04/2023
-      company: Pontomais, remote.
+      company: VR, remote.
       details: |
-        Responsible for development and maintenance of a system of registration and control of labor time.
+        Responsible for new features development of a system of registration and control of labor time, working in the business operations team of the VR Gente business unit. 
+        Frontend chapter leader.
+        Helped in the UX Squad, quality committee and design system committee.
+        Helped with the trainee program, helping the new developers to be familiar with Angular and Typescript.
         Also responsible for applying end-to-end and unit testings on the front-end web system in order to get better confidence.
         
-        - Technologies: Angular, AngularJS and Cypress.
+        - Technologies: Angular, AngularJS, Typescript, Jasmine and Cypress.
     
     - role: Tech Leader
       time: 01/2021 - 04/2021
@@ -123,7 +127,7 @@ experiences:
       details: |
         I was responsible for maintaining the team working with the best practices and keeping the projects scalable with clean architecture and TDD, and also responsible for developing new web and mobile applications using the best practices.
 
-        - Technologies: Clean Architecture, React, React Native, NodeJS and Firebase.
+        - Technologies: Clean Architecture, React, React Native, NodeJS, Jest and Firebase.
         
     - role: Software Engineer
       time: 10/2020 - Present
@@ -131,7 +135,7 @@ experiences:
       details: |
         I was responsible for developing new web and mobile applications using the best practices.
 
-        - Technologies: Clean Architecture, React, React Native, NodeJS and Firebase.
+        - Technologies: Clean Architecture, React, React Native, NodeJS, Jest and Firebase.
     
     - role: Full Stack Web Developer
       time: 07/2019 - 11/2020
