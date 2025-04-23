@@ -99,8 +99,16 @@ education:
           
    
 experiences:
-    - role: Specialist Frontend Engineer
-      time: 04/2023 - Present
+    - role: Senior Software Engineer
+      time: 08/2024 - Present
+      company: Wellhub, remote.
+      details: |
+        Wellhub is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner.
+        
+        - Technologies: React, TypeScript, Node, Handlebars.js, GraphQL, REST API, Jest, Playwright.
+
+    - role: Staff Frontend Engineer
+      time: 04/2023 - 08/2024
       company: VR, remote.
       details: |
         Responsible for new features development of a system of registration and control of labor time with more than 25k users, working in the architecture team of the VR Gente business unit. 
