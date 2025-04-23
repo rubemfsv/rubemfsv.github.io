@@ -105,7 +105,7 @@ experiences:
       details: |
         Wellhub is a corporate wellness platform that connects employees to the best partners for fitness, mindfulness, therapy, nutrition, and sleep, all included in one subscription designed to cost less than each individual partner.
         
-        - Technologies: React, TypeScript, Node, Handlebars.js, GraphQL, REST API, Jest, Playwright.
+        - Technologies: React, TypeScript, Node, Storybook, Handlebars.js, GraphQL, REST API, Jest, Playwright.
 
     - role: Staff Frontend Engineer
       time: 04/2023 - 08/2024
